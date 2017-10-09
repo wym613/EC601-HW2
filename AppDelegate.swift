@@ -3,7 +3,7 @@
 //  FoodTracker
 //
 //  Created by 王艺萌 on 10/9/17.
-//  Copyright © 2017 王艺萌. All rights reserved.
+//  Copyright © 2017 Yimeng Wang. All rights reserved.
 //
 
 import UIKit
@@ -43,4 +43,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
+
 
