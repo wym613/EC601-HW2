@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  MealTableViewCell.swift
 //  FoodTracker
 //
 //  Created by 王艺萌 on 10/9/17.
