@@ -1,5 +1,7 @@
 This is my HW2 
 ===============
+Trello:https://trello.com/b/sPWkGuR6/ec602-hw2
+---
 I choose to develope an IOS app. This is a app that I followed the tutorial on the website.
 
 This is the UI.
