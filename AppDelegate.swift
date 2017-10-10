@@ -6,6 +6,14 @@
 //  Copyright © 2017 Yimeng Wang. All rights reserved.
 //
 
+//
+//  AppDelegate.swift
+//  FoodTracker
+//
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
+//
+
 import UIKit
 
 @UIApplicationMain
@@ -43,6 +51,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
+
 
 
 
